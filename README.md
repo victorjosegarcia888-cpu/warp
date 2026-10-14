@@ -7,6 +7,8 @@
 
 # NVIDIA Warp
 **[Documentation](https://nvidia.github.io/warp/stable/)** | [Changelog](https://github.com/NVIDIA/warp/blob/main/CHANGELOG.md)
+integration with pikoGK: https://github.com/leap71/PicoGK/tree/main/Base
+integration with Nanovdb/openvdb sparse tools and Graphical GPU as the main focus. 
 
 Warp is a Python framework for GPU-accelerated simulation, robotics, and machine learning. Warp takes
 regular Python functions and JIT compiles them to efficient kernel code that can run on the CPU or GPU.
