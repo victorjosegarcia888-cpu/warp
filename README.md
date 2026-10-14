@@ -500,3 +500,6 @@ We encourage you to add your own published work using Warp to this list.
 If you use Warp in your research, please use the "Cite this repository" button on the
 [GitHub repository](https://github.com/NVIDIA/warp) page or refer to the
 [CITATION.cff](https://github.com/NVIDIA/warp/blob/main/CITATION.cff) file for citation information.
+
+### Turbojet machinnery ecuations
+https://es.scribd.com/document/885193009/U08-DisenoTurbinas#google_vignette
